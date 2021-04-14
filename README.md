@@ -4,6 +4,6 @@ about: Generic details regarding this project.
 ---
 
 ### API documentation
-[https://developer.niceincontact.com/API]
+[https://help.docebo.com/hc/en-us/articles/360020126999-Introduction-to-Docebo-APIs]
 
 [License](/LICENSE)
